@@ -1,38 +1,17 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Label1": 4,
-    "Screen1": 3
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/25/2022 18:22:41",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OldLogoFileName": "0mssciw4.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "label": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Label1": 0,
-    "Screen1": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0560682,
-    "ControlCount": {
-      "label": 1,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 2.0770849,
-    "ErrorCount": 0
-  }
+  "TemplateVersions": {}
 }
