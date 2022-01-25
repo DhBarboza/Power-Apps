@@ -12,3 +12,10 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
+    Button1 As button:
+        OnSelect: =Navigate(Screen2, ScreenTransition.Cover)
+        Text: ="Button"
+        X: =1125
+        Y: =648
+        ZIndex: =3
+
