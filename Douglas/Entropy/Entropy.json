@@ -5,11 +5,13 @@
     "Label1": 4,
     "Label2": 5,
     "Label3": 7,
+    "Label4": 9,
     "Screen1": 3,
-    "Screen2": 6
+    "Screen2": 6,
+    "Screen3": 8
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/25/2022 18:27:40",
+  "HeaderLastSavedDateTimeUTC": "01/25/2022 18:30:35",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -24,11 +26,13 @@
   },
   "PublishOrderIndices": {
     "App": 0,
-    "Label1": 3,
-    "Label2": 4,
-    "Label3": 6,
+    "Label1": 1,
+    "Label2": 0,
+    "Label3": 2,
+    "Label4": 0,
     "Screen1": 2,
-    "Screen2": 5
+    "Screen2": 5,
+    "Screen3": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
