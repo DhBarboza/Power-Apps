@@ -1,13 +1,13 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Teste Douglas"
+        Text: ="Teste 20"
         X: =471
         Y: =252
         ZIndex: =1
 
     Label2 As label:
-        Text: ="Teste"
+        Text: ="Teste Matheus truyts"
         X: =40
         Y: =40
         ZIndex: =2
