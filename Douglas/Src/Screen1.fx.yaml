@@ -13,7 +13,12 @@ Screen1 As screen:
         ZIndex: =2
 
     Button1 As button:
+        Fill: =RGBA(255, 191, 0, 1)
         OnSelect: =Navigate(Screen2, ScreenTransition.Cover)
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
         Text: ="Button"
         X: =1125
         Y: =648
